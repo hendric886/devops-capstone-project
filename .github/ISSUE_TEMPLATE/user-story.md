@@ -1,3 +1,12 @@
+---
+name: user-story
+about: Create user storey
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
